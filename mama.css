@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family:  'Roboto', sans-serif;
+    background: rgb(63,94,251);
+background: radial-gradient(circle, rgba(63,94,251,1) 13%, rgba(252,70,107,1) 100%);
+
+}
+.buton{
+    color: aqua;
+    text-decoration: none;
+    background-color: black;
+    padding: 10px 20px;
+    border-radius: 10px;
+    transition: .3s;
+    width: 250px;
+    margin: 0 auto;
+    display: block;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px ;
+
+}
+.buton:hover{
+    color: rgba(13, 233, 13, 0.856);
+}
+.name{
+    margin-top: 20px;
+    color: red;
+    text-align: center;
+}
+.artur{
+    margin-top: 30px;
+    color: blue;
+    text-align: center;
+}
+.img{
+    margin: 0 auto;
+    display: block;
+    
+}
+.deda{
+    text-align: center;
+    color: blue;
+    font-size: 40px;
+}
+.bog{
+    padding: 30px;
+
+}
+
